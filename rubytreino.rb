@@ -30,9 +30,6 @@ apresentafalso = "Henrique Alves Xavier"
 puts apresentaverdadeiro.include? "Alvares"
 
 
-
-
-
 # DATA TYPES 
 # name = "Henrique"
 # idade = 25
@@ -49,7 +46,7 @@ puts apresentaverdadeiro.include? "Alvares"
 # print (idade + real)
 
 
-#Exemplos de vars e como utilizalas
+#EXEMPLOS VARS E COMO UTILIZALAS
 # nome_personagem = "Lucas"
 # idade_personagem = "32"
 
